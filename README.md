@@ -23,7 +23,7 @@ I'm currently learning about all this fancy things! <br/>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 My next goals:<br/>
-[![TypeScript](https://img.shields.io/badge/TypeScript-00AFE3?style=for-the-badge&logo=typescript&logoColor=white&labelColor=00AFE3)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-0039E3?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0039E3)]()
 [![Angular](https://img.shields.io/badge/Angular-DB0020?style=for-the-badge&logo=angular&logoColor=white&labelColor=DB0020)]()
 [![Tailwind](https://img.shields.io/badge/TailwindCss-029491?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=029491)]()
 [![React](https://img.shields.io/badge/React-00AFE3?style=for-the-badge&logo=react&logoColor=white&labelColor=00AFE3)]()
