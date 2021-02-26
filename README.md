@@ -22,7 +22,7 @@ I'm currently learning about all this fancy things! <br/>
 [![CSS](https://img.shields.io/badge/CSS-0099F5?style=for-the-badge&logo=css3&logoColor=white&labelColor=0099F5)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
-My next objectives are:
+My next goal:
 [![Angular](https://img.shields.io/badge/Angular-F7DF1E?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind-F7DF1E?style=for-the-badge&logo=tailwind&logoColor=white&labelColor=101010)]()
+[![Tailwind](https://img.shields.io/badge/TailwindCss-F7DF1E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
