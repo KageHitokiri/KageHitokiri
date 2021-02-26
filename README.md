@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>My skills are:</p>
+<p>My skills are:
 <br/>
 <p>[![Java](https://img.shields.io/badge/Java-FF8400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()</p>
 <p>[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</p>
