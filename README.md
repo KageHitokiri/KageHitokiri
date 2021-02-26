@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 My skills are:
 [![Java](https://img.shields.io/badge/Java-FF8400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-FF6300?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-0099F5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-FF6300?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6300)]()
+[![CSS](https://img.shields.io/badge/CSS-0099F5?style=for-the-badge&logo=css3&logoColor=white&labelColor=0099F5)]()
