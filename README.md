@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+My name is Carlos. I'm a web design student in Castellón de la plana (Spain). <br/>
 I'm currently learning about all this fancy things! <br/>
 
 [![Java](https://img.shields.io/badge/Java-FF8400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -26,3 +26,5 @@ My next goal:<br/>
 [![Angular](https://img.shields.io/badge/Angular-DB0020?style=for-the-badge&logo=angular&logoColor=white&labelColor=DB0020)]()
 [![Tailwind](https://img.shields.io/badge/TailwindCss-029491?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=029491)]()
 [![React](https://img.shields.io/badge/React-00AFE3?style=for-the-badge&logo=react&logoColor=white&labelColor=00AFE3)]()
+<br/>
+<p>Thank you for your reading!</p>
