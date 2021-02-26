@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Carlos. I'm a web design student in Castellón de la plana (Spain). <br/>
+My name is Carlos. I'm a web development student in Castellón de la plana (Spain). <br/>
 I'm currently learning about all this fancy things! <br/>
 
 [![Java](https://img.shields.io/badge/Java-FF8400?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
