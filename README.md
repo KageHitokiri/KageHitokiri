@@ -27,6 +27,6 @@ My next goals:<br/>
 [![Angular](https://img.shields.io/badge/Angular-DB0020?style=for-the-badge&logo=angular&logoColor=white&labelColor=DB0020)]()
 [![Tailwind](https://img.shields.io/badge/TailwindCss-029491?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=029491)]()
 [![React](https://img.shields.io/badge/React-00AFE3?style=for-the-badge&logo=react&logoColor=white&labelColor=00AFE3)]()
-[![Python](https://img.shields.io/badge/Python-00AFE3?style=for-the-badge&logo=python&logoColor=white&labelColor=afafaf)]()
+[![Python](https://img.shields.io/badge/Python-008DDD?style=for-the-badge&logo=python&logoColor=white&labelColor=FFDF00)]()
 <br/>
 <p>Thank you for your reading!</p>
