@@ -21,10 +21,11 @@ I'm currently learning about all this fancy things! <br/>
 [![HTML](https://img.shields.io/badge/HTML-FF6300?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6300)]()
 [![CSS](https://img.shields.io/badge/CSS-0099F5?style=for-the-badge&logo=css3&logoColor=white&labelColor=0099F5)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
-My next goals:<br/>
 [![TypeScript](https://img.shields.io/badge/TypeScript-0039E3?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0039E3)]()
 [![Angular](https://img.shields.io/badge/Angular-DB0020?style=for-the-badge&logo=angular&logoColor=white&labelColor=DB0020)]()
+
+My next goals:<br/>
+
 [![Tailwind](https://img.shields.io/badge/TailwindCss-029491?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=029491)]()
 [![React](https://img.shields.io/badge/React-00AFE3?style=for-the-badge&logo=react&logoColor=white&labelColor=00AFE3)]()
 [![Python](https://img.shields.io/badge/Python-FFDF00?style=for-the-badge&logo=python&logoColor=white&labelColor=008DDD)]()
